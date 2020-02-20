@@ -1,0 +1,144 @@
+body,
+html{
+    background-color: burlywood;
+    
+}
+
+.container{
+    display: flex;
+
+}
+
+.topbar{
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-align: center;
+    background-color: wheat;
+    width: 100%;;
+    padding-top: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 40px black;
+    /* border: 1px solid black; */
+}
+
+.logo{
+    display: inline-block;
+    padding: 1px;
+    /* border: 1px solid black; */
+}
+
+.logo img{
+    width: 50px;
+    height: 50px;
+}
+
+.box1{
+    position: relative;
+    width: 450px;
+    height: 470px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px black;
+    /* border: 1px solid black; */
+    background-color: wheat;
+}
+
+.post1{
+    display: block;
+
+}
+
+.title1{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    padding: 15px;
+
+}
+
+.pizza img{
+    width: 100%;
+    height: 350px;
+}
+
+.imgfooter1{
+    font-family: 'Lobster', cursive;
+    font-size: 15px;
+    padding: 8px;
+    padding-left: 20px;
+}
+
+.box2{  
+    position: relative;
+    width: 450px;
+    height: 470px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px black;
+    /* border: 1px solid black; */
+    background-color: wheat;
+
+}
+
+.post2{
+    display: block;
+}
+
+.title2{ 
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.family img{
+    width: 100%;
+    height: 350px;
+}
+
+.imgfooter2{
+    font-family: 'Lobster', cursive;
+    font-size: 15px;
+    padding: 8px;
+    padding-left: 20px;
+
+}
+
+.box3{
+    position: relative;
+    width: 450px;
+    height: 470px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px black;
+    /* border: 1px solid black; */
+    background-color: wheat;
+    margin-bottom: 70px;
+
+}
+
+.post3{
+    display: block;
+
+}
+
+.title3{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.goals img{
+    width: 100%;
+    height: 350px;
+}
+
+.imgfooter3{
+    font-family: 'Lobster', cursive;
+    font-size: 15px;
+    padding: 8px;
+    padding-left: 20px;
+
+}
